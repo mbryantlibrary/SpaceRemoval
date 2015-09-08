@@ -1,0 +1,1 @@
+spaces.d: ../spaces.c
